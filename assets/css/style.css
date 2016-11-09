@@ -59,6 +59,7 @@ body {
 /*Styles the blank letter spaces with a border bottom*/
 #guessBlanks{
 	
+	font-size: 30px;
 	text-align: center;
 	margin-top: 50px;
 
